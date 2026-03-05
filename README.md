@@ -25,7 +25,7 @@ It then suggests the **most suitable crops using a data-driven recommendation al
 
 ### Crop Recommendation Interface
 
-![Crop Recommendation Demo](images/project-demo.png)
+![Crop Recommendation Demo](images/project-demo.png.png)
 
 
 ---
